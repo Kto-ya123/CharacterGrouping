@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561106527 source:/home/ITRANSITION.CORP/a.luzgin/example/CharacterGrouping/main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+
